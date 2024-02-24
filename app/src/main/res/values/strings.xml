@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Coroutines</string>
+    <string name="process_1">Process 1</string>
+    <string name="process_2">Process 2</string>
+    <string name="start_process_1">Start Process 1</string>
+    <string name="start_process_2">Start Process 2</string>
+    <string name="stop_button">Stop Button</string>
+</resources>
